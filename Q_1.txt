@@ -1,2 +1,10 @@
 
    Explain what git clone does, in your own words:
+
+   Git Clone, clones a repository to a new directory.
+   It also creates remote-tracking branches for each
+   created branch in the cloned repository.
+
+   It also creates and checks an initial branch that
+   is forked from the cloned repository’s current
+   active branch.
