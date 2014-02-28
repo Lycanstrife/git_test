@@ -1,2 +1,7 @@
 
    Explain what the “upstream” remote is usually used for, in your own words:
+
+   The Upstream remote is used to ‘push’ changes made back to the online repository.
+   This means that ‘generally speaking’, upstream is where you cloned from (the origin).
+   
+   It’s the destination for all your git push changes.
