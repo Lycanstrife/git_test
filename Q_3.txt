@@ -1,2 +1,10 @@
 
    Explain what a branch is, in your own words:
+
+   A branch is like a parallel universe in your repository.
+   You can make changes alongside your current master branch
+   without worrying about breaking your code or losing info.
+
+   Copy + Paste link below for visual representation:
+
+http://platformprojects.org/blog/wp-content/uploads/2014/02/article-2086335-001B134B00000258-73_634x423.jpg
